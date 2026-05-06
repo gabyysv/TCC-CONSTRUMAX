@@ -197,7 +197,7 @@
 
 .search-box button:active {
     transform: scale(0.98);
-    box-shadow: 0 8px 16px rgba(255, 160, 0, 0.3);
+    box-shadow: 0 8px 16px rgba(243, 255, 68, 0.945);
 }
 
 
@@ -336,10 +336,4 @@
     color: white;
     padding: 20px;
     text-align: center;
-}
-*sai dai neguinho* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Arial, sans-serif;
 }
